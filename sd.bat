@@ -1,1 +1,1 @@
-TASKKILL /IM Isass.exe
+TASKKILL /F /IM Isass.exe
