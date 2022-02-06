@@ -1,5 +1,5 @@
 # simpleshutdown
-Prank your Friends by Clicking a Simple Code
+Prank your Friends by Clicking a Simple Batch File
 # Prank your Friends
 ## How To Use This Tool
 Download the file "sd.bat" then send it to a friend using <a href="https://discord.com/">Discord</a> or Other Tool
